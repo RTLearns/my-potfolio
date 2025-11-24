@@ -1,7 +1,7 @@
 # My Portfolio
 
 Welcome to my personal portfolio repository!  
-This project showcases my work in data analytics, programming, and web development.
+This project showcases my work in data analytics, programming, editing, and personal experience & activities.
 
 ## Features
 - Responsive web design
