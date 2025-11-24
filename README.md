@@ -9,5 +9,5 @@ This project showcases my work in data analytics, programming, editing, and pers
 - Links to my Kaggle profile and other projects
 
 ## Credits
-Template inspired by [codewithsadee](https://github.com/codewithsadee).  
+Template by [codewithsadee](https://github.com/codewithsadee).  
 Customized and maintained by [Ruben Tagama](https://github.com/RTLearns).
